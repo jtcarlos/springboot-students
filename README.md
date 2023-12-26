@@ -2,7 +2,6 @@
 Springboot students is a project to help me practice Spring concepts such as Repositories, Template Engines, CommandLine Runners, and many more.
 
 ## Features
-<hr />
 
 * Automatically creates a `student` PostgreSQL table inside the `Playground` database with the following columns:
   * Student ID
@@ -22,7 +21,6 @@ Springboot students is a project to help me practice Spring concepts such as Rep
 * User should be able to get top 5 oldest students
 
 ## Running and Usage
-<hr />
 
 ``` 
 Note: This method uses the built-in run function of an IDE. You may choose to run and execute this project in anyway you want (e.g. Through CommandLine). 
@@ -33,7 +31,6 @@ Note: This method uses the built-in run function of an IDE. You may choose to ru
 4. Access it through `http://localhost:8080`
 
 ## Endpoints
-<hr />
 
 | Method | Endpoint                               | Description                                               |
 |-------|----------------------------------------|-----------------------------------------------------------|
